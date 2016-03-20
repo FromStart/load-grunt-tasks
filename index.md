@@ -194,6 +194,3 @@ module.exports = function (grunt, opts) {
 };
 
 ```
-
-Here ar some links that can be usefull for you  
-- Object.keys
