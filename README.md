@@ -1,6 +1,8 @@
-# FromScratch #1 - load-grunt-tasks
+# FromScratch - load-grunt-tasks
 
 In this first article, I have decided to present a very simple open source project : **load-grunt-tasks**. This grunt plugin makes it possible to load dynamically all grunt plugins defined in the **package.json** file of your project.
+
+You can find the original repository of this project on Github : [https://github.com/sindresorhus/load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks).
 
 When you want to use this plugin, according to the official documentation, you should add the next JavaScript code in your Grunt file :
 
